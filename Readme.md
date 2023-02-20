@@ -5,15 +5,15 @@ It is an Ecommerce API built with Java using Spring Boot and Hibernate.
 ## Languages Used:
 -Java 11
 
--Maven
+-H2 Database
 
 -Spring Boot
 
--Hibernate
-
--H2 Database
-
 -Swagger
+
+-Maven
+
+-Hibernate
 
 ## Data Flow:
 
